@@ -1,1 +1,1 @@
-Hello! I'm Ivan and I love to create animations with p5.js. I'm also a student, learning Full-Stack development with the MERN stack.
+Hello! I'm Ivan and I am passionate about JavaScript. Still learning. Still practicing. Everyday.
