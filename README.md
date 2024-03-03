@@ -1,1 +1,1 @@
-Hello! I'm Ivan and I am passionate about JavaScript. Still learning. Still practicing. Everyday.
+Hello! I'm Ivan and I am passionate about JavaScript. I am still learning and practicing everyday.
